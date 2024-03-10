@@ -48,6 +48,7 @@ public class Principal extends JFrame implements ActionListener{
 	 setVisible(true);
    }
 
+	
 	public void actionPerformed(ActionEvent e) //acci�n cuando pulsamos botones 
 	    {  	  	
 	    	     if (e.getSource() == b1) 	
